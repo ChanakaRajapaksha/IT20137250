@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Kill Hunger Mobile Application](https://github.com/SLIIT-FacultyOfComputing/final-project-uee_fp_nullable.git)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Laravel, Java, Android**
 
